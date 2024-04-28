@@ -3,12 +3,12 @@
 # Eliminar la carpeta "externos" dentro de la carpeta distribuidora
 cd distribuidora
 cd extrernos
-rmdir pendientes
 rm lista.txt
-rmdir tests
-rm teste-remove-directory
+rm lista.txt
 cd ..
+rmdir pendientes
 rmdir externos
+
 
 
 
